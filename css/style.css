@@ -103,8 +103,6 @@ img {
     height: 300px;
     width: 350px;
     padding: 0;
-    margin-right: 0 auto;
-    margin-left: 0 auto;
 }
 
 #col1 {
@@ -131,32 +129,6 @@ img {
     height: auto;
     width: auto;
 }
-
-/*
-#table {
-    margin: 0px 0px 0px 200px;
-    padding: 10px;
-    border: 1px solid black;
-    display: table;
-}
-
-th, td {
-    border-bottom: 1px solid black;
-}
-
-img {
-    vertical-align: baseline;
-}
-
-#ptable {
-    margin: 0px 0px 0px 125px;
-}
-
-p {
-    margin: 10px 0px 0px 40px;
-}
-*/
-
 
 
 /* full size */
